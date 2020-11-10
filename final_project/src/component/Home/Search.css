@@ -1,0 +1,52 @@
+.imageContainer{
+    background:url('https://cdn.vox-cdn.com/thumbor/WhFWEqH-L-G7vt1TSDAzryo9NIs=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19336970/BDTop.jpg');
+    border-style:solid;
+    border-color:white;
+    border-width:30px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#logo{font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    color:red;
+    font-weight:bold;
+    font-size:70px;
+    background:white;
+    height:120px;
+    width:120px;
+    margin:auto;
+    border-radius:50%;
+    margin-top:80px;
+    margin-bottom: 80px;
+}
+
+.heading{
+    text-align:center;
+    color: indigo;
+    font-size:40px; font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+.locationSelector{
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align:center;font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.locationDropDown{
+    width:250px;
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.restinput{
+    width:400px;
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none;
+}
